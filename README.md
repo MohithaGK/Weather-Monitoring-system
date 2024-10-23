@@ -6,7 +6,7 @@ Developed a real-time data processing system to monitor weather conditions and p
 
 Features
 
-Installation
+Prerequisites
 
 Technologies Used
 
