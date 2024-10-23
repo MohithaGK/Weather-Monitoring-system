@@ -37,7 +37,9 @@ Threshold Alerting: A simple threshold mechanism is implemented to alert users w
 
 # Dependencies
 1.requests: For making HTTP requests to the OpenWeatherMap API.
+
 2.pandas: For data manipulation and analysis, especially for calculating daily summaries.
+
 3.matplotlib: For data visualization.
 
 # Process
